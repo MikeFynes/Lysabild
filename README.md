@@ -1,10 +1,8 @@
 # Lysabild
-A Node.js project with Express for experimentation
-
+A Node.js project for experimentation with javascript unit testing
 
 Using Rising Stack tutorial on unit testing in node.js :  https://blog.risingstack.com/node-hero-node-js-unit-testing-tutorial/
 
-Confirmed distances using : https://www.mathportal.org/calculators/analytic-geometry/distance-and-midpoint-calculator.php
 
 #How to run
     npm install
